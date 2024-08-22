@@ -1,6 +1,6 @@
 -  Hi, I’m @SandyBreak
--  I’m interested in particular, websites development 
--  I’m currently learning React, Django, and other frontend technologies
+-  I’m currently learning Python, FastAPI, PostgreSQl, Mongodb, Redis, Docker and other backend technologies.
+-  I'm writing telegram bots using Aiogram 3.10. I can create bots that can interact with various APIs (Google or Zoom).
 -  My e-mail: sandybreak3405@gmail.com
 
 
